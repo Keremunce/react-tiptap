@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-tiptap/static/css/main.12b831ef.css",
+    "main.js": "/react-tiptap/static/js/main.e5da33f2.js",
+    "index.html": "/react-tiptap/index.html",
+    "main.12b831ef.css.map": "/react-tiptap/static/css/main.12b831ef.css.map",
+    "main.e5da33f2.js.map": "/react-tiptap/static/js/main.e5da33f2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12b831ef.css",
+    "static/js/main.e5da33f2.js"
+  ]
+}
